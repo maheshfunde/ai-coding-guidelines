@@ -1,4 +1,4 @@
-﻿# Universal AI Skills & Architecture Kit 🧠⚡
+﻿# AI Coding Guidelines & Architecture Kit 🧠⚡
 
 > Production-grade **UI/UX Design Systems** and **Backend Software Architecture** skills that work out-of-the-box with **Antigravity IDE**, **Claude Code**, **Cursor**, **GitHub Copilot**, **Windsurf**, and any LLM.
 
@@ -16,8 +16,8 @@
 ### Windows (PowerShell)
 Clone the repo and run the interactive installer:
 ```powershell
-git clone https://github.com/<your-username>/universal-ai-skills.git
-cd universal-ai-skills
+git clone https://github.com/maheshfunde/ai-coding-guidelines.git
+cd ai-coding-guidelines
 .\install.ps1
 ```
 *To install for everything silently:*
@@ -27,8 +27,8 @@ cd universal-ai-skills
 
 ### macOS / Linux (Bash)
 ```bash
-git clone https://github.com/<your-username>/universal-ai-skills.git
-cd universal-ai-skills
+git clone https://github.com/maheshfunde/ai-coding-guidelines.git
+cd ai-coding-guidelines
 chmod +x install.sh
 ./install.sh
 ```
