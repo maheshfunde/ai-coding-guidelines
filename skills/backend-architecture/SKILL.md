@@ -1,4 +1,4 @@
----
+﻿---
 name: backend-architecture
 description: Use when designing backend services, REST/gRPC APIs, database schemas, applying Clean Architecture or SOLID principles, setting up TDD with walking skeletons, writing idiomatic Java/Spring Boot code, or architecting distributed systems for reliability, replication, and concurrency.
 ---
@@ -97,9 +97,9 @@ A comprehensive engineering standard synthesizing clean code craftsmanship, laye
 ## Detailed Topic Guides
 For exhaustive deep dives into specific chapters, patterns, and code samples, consult the companion guides in `references/`:
 
-- [Code Craftsmanship & Clean Code](references/clean-code.md): Functions, naming, refactoring smells, error handling, and unit test guidelines.
-- [Layered Architecture & Boundaries](references/clean-architecture.md): The dependency rule, use cases, boundaries, and enterprise patterns.
-- [Distributed Systems & Data Architecture](references/ddia.md): Distributed systems, replication, partitioning, transactions, and consensus.
-- [Idiomatic OOP & Robust Design Patterns](references/effective-java.md): Best practices for robust, idiomatic Java/Kotlin development.
-- [Outside-In TDD & Walking Skeletons](references/growing-object-oriented-software.md): Outside-in TDD, walking skeletons, and mocking guidelines.
-- [Cloud-Native Framework Architecture](references/learning-spring-boot.md): Modern Spring Framework, Jakarta EE, and microservice practices.
+- [Code Craftsmanship & Clean Code](references/code-craftsmanship.md): Functions, naming, refactoring smells, error handling, and unit test guidelines.
+- [Layered Architecture & Boundaries](references/architectural-boundaries.md): The dependency rule, use cases, boundaries, and enterprise patterns.
+- [Distributed Systems & Data Architecture](references/distributed-data-systems.md): Distributed systems, replication, partitioning, transactions, and consensus.
+- [Idiomatic OOP & Robust Design Patterns](references/idiomatic-oop-design.md): Best practices for robust, idiomatic Java/Kotlin development.
+- [Outside-In TDD & Walking Skeletons](references/outside-in-tdd.md): Outside-in TDD, walking skeletons, and mocking guidelines.
+- [Cloud-Native Framework Architecture](references/cloud-native-frameworks.md): Modern Spring Framework, Jakarta EE, and microservice practices.

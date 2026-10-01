@@ -1,4 +1,4 @@
----
+﻿---
 name: ui-ux-design
 description: Use when designing user interfaces, creating layouts, styling components, choosing color palettes or typography, auditing UX flow, eliminating cognitive friction, or reviewing frontend implementations for visual hierarchy and usability.
 ---
@@ -80,10 +80,10 @@ A unified engineering and design standard synthesizing modern visual design syst
 ## Detailed Topic Guides
 For deep dives into specific interaction patterns, heuristics, and tactical examples, consult the dedicated guides in the `references/` directory:
 
-- [Visual Design & Layout Guide](references/refactoring-ui.md): Layout tactics, color systems, shadows, and spacing rules.
-- [Affordances & Mental Models Guide](references/design-of-everyday-things.md): Affordances, signifiers, interaction mappings, and conceptual models.
-- [Goal-Directed Interaction Design](references/about-face.md): Interaction postures, user flow, and excise elimination.
-- [Interaction Design Patterns Guide](references/designing-interfaces.md): Reusable UI interaction and navigation patterns.
-- [Cognitive Psychology & Behavioral UX](references/100-things-design.md): Cognitive psychology, visual perception, and behavioral nudges.
-- [Typography & Grid Systems Guide](references/thinking-with-type.md): Typesetting, modular scales, baseline grids, and micro-typography.
-- [Touch Ergonomics & Accessibility Standards](references/apple-hig.md): Touch ergonomics, system typography, accessibility, and platform conventions.
+- [Visual Design & Layout Guide](references/visual-hierarchy-layout.md): Layout tactics, color systems, shadows, and spacing rules.
+- [Affordances & Mental Models Guide](references/interaction-foundations.md): Affordances, signifiers, interaction mappings, and conceptual models.
+- [Goal-Directed Interaction Design](references/goal-directed-interaction.md): Interaction postures, user flow, and excise elimination.
+- [Interaction Design Patterns Guide](references/ui-patterns-navigation.md): Reusable UI interaction and navigation patterns.
+- [Cognitive Psychology & Behavioral UX](references/behavioral-ux-cognition.md): Cognitive psychology, visual perception, and behavioral nudges.
+- [Typography & Grid Systems Guide](references/typography-grid-systems.md): Typesetting, modular scales, baseline grids, and micro-typography.
+- [Touch Ergonomics & Accessibility Standards](references/touch-ergonomics-accessibility.md): Touch ergonomics, system typography, accessibility, and platform conventions.
