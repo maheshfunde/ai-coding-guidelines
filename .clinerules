@@ -1,0 +1,6 @@
+﻿# Cline / Roo Code / OpenCode System Rules
+
+Follow the team engineering skills located in:
+1. `skills/ui-ux-design/SKILL.md` — UI engineering, visual hierarchy, typography, and accessibility.
+2. `skills/backend-architecture/SKILL.md` — Layered boundaries, clean code, TDD walking skeletons, and distributed data systems.
+Consult supporting reference guides in `skills/*/references/` for detailed patterns.

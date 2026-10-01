@@ -1,0 +1,6 @@
+﻿---
+description: Use when writing backend services, APIs, database schemas, or refactoring business logic
+globs: **/*.{java,kt,go,py,ts,js,rs,cs,cpp}
+alwaysApply: false
+---
+Refer to `skills/backend-architecture/SKILL.md` for the Dependency Rule, clean code heuristics, Outside-In TDD, and distributed data systems.

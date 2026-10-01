@@ -1,0 +1,5 @@
+﻿# Windsurf / Cascade AI Guidelines
+
+Always align code generation with the engineering standards defined in this repository:
+- For frontend, web, and mobile styling: consult `skills/ui-ux-design/SKILL.md`.
+- For backend services, APIs, database logic, and clean code: consult `skills/backend-architecture/SKILL.md`.

@@ -1,0 +1,16 @@
+﻿# Universal Cursor Rules
+
+## UI/UX & Interaction Design
+When generating, refactoring, or auditing UI/UX code, follow `skills/ui-ux-design/SKILL.md`:
+- Feature-first layout; establish spacing & typography hierarchy in grayscale before color.
+- Spacing scale: 4px, 8px, 12px, 16px, 24px, 32px, 48px, 64px.
+- Line length (measure): 45-75 characters for readability.
+- Touch targets: Minimum 44x44pt (iOS) or 48x48dp (Android/Web).
+- Exactly one primary filled button per screen; secondary actions must be outlined or ghost.
+
+## Backend & Architecture
+When designing services, APIs, databases, or writing backend code, follow `skills/backend-architecture/SKILL.md`:
+- The Dependency Rule: Dependencies point strictly inward. Domain entities and use cases must not depend on web or database frameworks.
+- Functions must do one thing, stay under 20 lines, and maintain Command-Query Separation.
+- Avoid nulls (use empty collections or Optionals). Throw domain exceptions over error codes.
+- Use Outside-In TDD: write a Walking Skeleton before implementing feature logic.

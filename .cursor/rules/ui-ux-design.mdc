@@ -1,0 +1,6 @@
+﻿---
+description: Use when styling components, designing layouts, choosing typography, or auditing UI/UX
+globs: **/*.{html,css,scss,tsx,jsx,vue,svelte,kt,xml,swift}
+alwaysApply: false
+---
+Refer to `skills/ui-ux-design/SKILL.md` for spacing scales, color systems, touch ergonomics (48dp), and visual hierarchy rules.
