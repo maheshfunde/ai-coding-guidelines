@@ -1,0 +1,48 @@
+﻿{
+  "name": "ai-coding-guidelines",
+  "version": "1.0.0",
+  "description": "Production-grade UI/UX design systems and backend architecture guidelines for AI coding assistants.",
+  "main": "bin/cli.js",
+  "bin": {
+    "ai-coding-guidelines": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "skills",
+    ".cursor",
+    ".github",
+    "CLAUDE.md",
+    ".cursorrules",
+    ".windsurfrules",
+    ".clinerules",
+    "plugin.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node ./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshfunde/ai-coding-guidelines.git"
+  },
+  "keywords": [
+    "antigravity",
+    "antigravity-skill",
+    "cursor",
+    "cursor-rules",
+    "claude-code",
+    "copilot",
+    "windsurf",
+    "clean-architecture",
+    "ui-ux-design",
+    "software-craftsmanship",
+    "ai-skills"
+  ],
+  "author": "Mahesh Funde <fundemahesh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maheshfunde/ai-coding-guidelines/issues"
+  },
+  "homepage": "https://github.com/maheshfunde/ai-coding-guidelines#readme"
+}
